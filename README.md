@@ -31,4 +31,4 @@ Maven: For project management and build automation.
 
 To make it even easier to get started, an executable JAR file is provided. You can directly run the application without building it from source.
 
-Download the executable JAR file from the https://drive.google.com/file/d/19kEHamORw5OqoDqZZpRBOZoftAbkHn8z/view?usp=drive_link.
+Download the executable JAR file from the https://drive.google.com/drive/folders/1n5QwR7SnR2KSzqe9oMZhKSSHNtqBFUZf?usp=sharing.
