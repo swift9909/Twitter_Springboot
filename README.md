@@ -26,3 +26,9 @@ Spring Data JPA: For database interactions.
 H2 Database: For development and testing purposes.
 
 Maven: For project management and build automation.
+
+## Running the Executable Jar
+
+To make it even easier to get started, an executable JAR file is provided. You can directly run the application without building it from source.
+
+Download the executable JAR file from the https://drive.google.com/file/d/19kEHamORw5OqoDqZZpRBOZoftAbkHn8z/view?usp=drive_link.
