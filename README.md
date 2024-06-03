@@ -6,15 +6,23 @@ This project is a simplified backend for a Twitter-like application, developed u
 ## Features
 
 User Signup: New users can register with a unique username and password.
+
 User Login: Registered users can log in to access their accounts.
+
 Multiple Users: Supports multiple user accounts, allowing for interactions between different users.
+
 Post Tweets: Authenticated users can post tweets.
+
 Comment on Tweets: Users can comment on tweets, enabling conversation threads.
 
 ## Technologies Used
 
 Spring Boot: For building the backend application.
+
 Spring Security: For handling user authentication and authorization.
+
 Spring Data JPA: For database interactions.
+
 H2 Database: For development and testing purposes.
+
 Maven: For project management and build automation.
